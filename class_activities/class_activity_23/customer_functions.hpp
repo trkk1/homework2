@@ -9,5 +9,11 @@
 #define customer_functions_hpp
 
 #include <stdio.h>
+#include <iostream>
+using namespace std;
+
+namespace customerValidate{
+bool validateCustomer(const string& customerNumber);
+}
 
 #endif /* customer_functions_hpp */
