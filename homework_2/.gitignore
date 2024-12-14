@@ -1,0 +1,30 @@
+# Xcode User Data
+*.xcuserstate
+*.xcuserdata/
+
+# Xcode Derived Data
+DerivedData/
+
+# Xcode Build Output
+build/
+Build/
+
+# Pods or Carthage dependencies (if you're using CocoaPods or Carthage)
+Pods/
+Carthage/
+
+# Swift Package Manager
+.swiftpm/
+
+# Xcode Workspace
+*.xcworkspace/xcuserdata/
+
+# IDE settings
+*.idea/
+.vscode/
+
+# Crash logs
+*.crash
+
+# User-specific files
+*.DS_Store
